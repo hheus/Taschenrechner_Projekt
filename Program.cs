@@ -10,7 +10,7 @@ namespace Taschenrechner_Projekt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hallo Basta");
+            Console.WriteLine("Hallo Basta 2019");
         }
     }
 }
